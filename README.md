@@ -1,2 +1,2 @@
-ls
-rm *
+#!/bin/bash
+/etc/passwd
